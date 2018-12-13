@@ -1,0 +1,9 @@
+Felipe,60897255364,mauro,garcom,1000
+Joao,60897255364,mauro,garcom,1000
+Ricardo,60897255364,mauro,garcom,1000
+Flavio,60897255364,mauro,garcom,1000
+Saulo,60897255364,mauro,garcom,1000
+Marcos,60897255364,mauro,garcom,1000
+Francisco,60897255364,mauro,garcom,1000
+daniel lopes,34342424234,344434,garcom,1000
+Matheus boaro,61540465644,ray,garcom,10222
